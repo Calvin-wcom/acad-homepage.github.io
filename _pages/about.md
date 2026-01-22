@@ -20,7 +20,7 @@ redirect_from:
 His research interests span machine learning in communication and sensing systems, with a focus on Internet-of-Things (IoT), Vehicular-to-Everything (V2X) networks, and Low-Altitude Wireless Networks (LAWN), supported by enabling technologies including integrated sensing and communication (ISAC), intelligent reflecting surface (IRS), OTFS, and other emerging next-generation wireless techniques. Dr Liu has published over 70 papers in leading journals and conferences, with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
