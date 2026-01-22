@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Chang Liu"
+description              : "Assistant Professor | Machine Learning for sensing and communications "
+repository               : "Calvin-wcom/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Chang Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Dr Chang Liu is currently a Lecturer (Assistant Professor in U.S. systems) with the Department of Computer Science and Information Technology, La Trobe University, Melbourne, Australia. Dr Liu received the PhD degree from Dalian University of Technology, China, in 2017. In 2015, he was a joint PhD Scholar with the University of Tennessee, Knoxville, TN, USA. Before joining La Trobe University, he held research positions at several leading institutions, including the University of New South Wales, Sydney, Australia, the Friedrich Alexander University Erlangen-Nuremberg, Germany, and The Hong Kong Polytechnic University. He received the prestigious Alexander von Humboldt Research Fellowship and the La Trobe University Vice Chancellor’s Research Excellence Award, and has been consistently recognized among the World’s Top 2% Scientists by Stanford University since 2022. His papers have received multiple distinctions, including IEEE Best Paper Awards, ESI Hot Papers, and ESI Highly Cited Papers. Several of his works have been featured in IEEE Best Readings, IEEE Selected Ideas in Communications, and IEEE Popular Articles Lists. Dr. Liu currently serves as an Editor of the IEEE Transactions on Communications. He is also a Founding Member of the IEEE ComSoc Special Interest Group on orthogonal time frequency space (OTFS), the EDAS Co-Chair of IEEE PIMRC 2026, the Publication Co-Chair of IEEE ISWCS 2026, and has served as a Session Chair at IEEE ICC 2017. Over his career, Dr Liu has secured 14 research grants across Australia, Germany, and Hong Kong, totalling approximately AUD 1 million in funding. Among these projects, he worked as a Chief Investigator of the Alexander von Humboldt Fellowship (Germany), Industry-Funded Projects with AUPACITY Pty Ltd (Australia), a Research Start-Up Package from The Hong Kong Polytechnic University, and an Early Career Researcher Grant from the National Natural Science Foundation of China. His research interests span machine learning in communication and sensing systems, with a focus on Internet-of-Things (IoT), Vehicular-to-Everything (V2X) networks, and Low-Altitude Wireless Networks (LAWN), supported by enabling technologies including integrated sensing and communication (ISAC), intelligent reflecting surface (IRS), OTFS, and other emerging next-generation wireless techniques. 
+
+  location         : "Melbourne, Australia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=bcaxipEAAAAJ"
+  email            : "c.liu6@latrobe.edu.au"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
